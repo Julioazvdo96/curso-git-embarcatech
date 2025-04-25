@@ -1,0 +1,9 @@
+mkdir 
+cd
+git init 
+git config user.name 
+git config user.email
+git add
+git commit -m
+git remote add origin-github
+git push -u add origin-github main
